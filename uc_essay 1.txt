@@ -1,0 +1,21 @@
+----------------
+What would you say is your greatest talent or skill? How have you developed and demonstrated that talent over time?
+----------------
+
+In this case, I would like to state programming as my greatest skill because I've put a lot of effort behind this. Programming is more about practicing and putting efforts and less about by born talent, from my point of view. I liked computer related stuffs from my childhood. 
+
+I started programming at 8th grade because someone told me I can make games with it. Before that, normally I used computer to play games on internet. But soon, I realized programming is not all about game making. The best thing I learned from programming is problem solving. It's not like that I can solve any problem, but I learned how to solve them, breaking them into pieces. Also, I had to learn different types of mathematics for better problem solving, which furhter helped me academically in 11th and 12th grade. By practicing programming problem in online judges, I can now easily think about the worst case relating the problem, even in real life problems.
+
+These properties help me to solve problems efficiently. Besides programming competitions, I learned web development, made some projects with it. One of them is a mathamtical online judge. When I took preparation for mathematical olympiad in my 7th or 8th grade, I lacked of resources for practice in Bengali. 
+
+So, I came up with a website taking help from my other friends from math olympiad to provide practice problem with answer checking & scoring system in bengali. Now we are expanding to physics olympiad problems too. Besides, programming helped me to make friends. I met a lot of new people when I went to participate in programming contests of several instituions. And then, when I needed help while solving problems, I discussed with them. By doing these, I learned some new techniques such as writing templates or using rich editors etc. 
+
+Programming is a thing that helped me achieve some things that I always dreamt of. I am committed to study computer engineering further and make myself the person I want to be, a dedicated successful programmer who plays a leading role to make world a better place.
+
+
+
+
+
+
+
+
